@@ -1,3 +1,2 @@
 # USF-MSDS501
-This is the repository which is used to store the homework of MSDS501
-test123
+This is the repository which is used to store the projects of MSDS501
